@@ -11,8 +11,6 @@ public class Renderer {
 
     public void draw() {
         shape.draw();
-        System.out.println("Shape printed\nIts area is " + shape.getArea());
-        
+        System.out.println("Shape printed\nIts area is " + shape.getArea());git
     }
 }
-//*fdsfsd//
